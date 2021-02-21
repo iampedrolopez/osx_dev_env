@@ -1,6 +1,6 @@
 # macOS Dev Env Setup
 
-This document describes how to setup a developer environment on a new MacBook or iMac inspired by (Link)[https://github.com/nicolashery/mac-dev-setup]. We will set up popular programming languages (for example [Node](http://nodejs.org/) (JavaScript), [Python](http://www.python.org/), and [Ruby](http://www.ruby-lang.org/)). You may not need all of them for your projects, although I recommend having them set up as they always come in handy.
+This document describes how to setup a developer environment on a new MacBook or iMac inspired by [Link](https://github.com/nicolashery/mac-dev-setup). We will set up popular programming languages (for example [Node](http://nodejs.org/) (JavaScript), [Python](http://www.python.org/), and [Ruby](http://www.ruby-lang.org/)). You may not need all of them for your projects, although I recommend having them set up as they always come in handy.
 
 - [System update](#system-update)
 - [System preferences](#system-preferences)
